@@ -23,7 +23,7 @@
 - 🔭 正在维护 [**crazy**](https://github.com/Keisumhuis/crazy) — 一个轻量级 C++17 基础框架库
 - 🌱 持续学习：分布式系统、Linux 内核、性能优化
 - 💬 欢迎交流：C++ 后台开发、网络编程、系统设计
-- 📫 联系我：keisumhuis@gmail.com
+- 📫 联系我：keisumhuis@qq.com
 
 ---
 
