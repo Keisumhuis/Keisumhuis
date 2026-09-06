@@ -34,7 +34,7 @@
 | 模块 | 说明 |
 | :--- | :--- |
 | 🎭 Actor 模型 | 消息驱动的并发模型，独立线程 + 消息队列，支持命令行向指定 Actor 发消息 |
-| 🌐 网络通信 | TCP 服务端/客户端、Socket 封装、Selector 多路复用（wepoll）、本地 Socket |
+| 🌐 网络通信 | TCP 服务端/客户端、Socket 封装、Selector 多路复用（wepoll）、本地 Socket、http、websocket |
 | 📝 日志系统 | 多级别日志（trace ~ fatal），支持自定义格式器和输出目标 |
 | ⚙️ 配置管理 | INI 格式配置文件解析，支持 int/string/boolean 多类型读取 |
 | 🔐 加密模块 | Base64 编解码、MD5 哈希 |
